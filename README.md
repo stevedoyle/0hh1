@@ -13,5 +13,5 @@ Fill in the grid with blue (0) and red (1) tiles without violating the rules.
 2. Cannot have a consecutive sequence of tiles of the same colour in a column.
 3. A row must have as many red tiles as blue tiles.
 4. A column must have as many red tiles as blue tiles.
-5. 3. No two rows can be the same.
+5. No two rows can be the same.
 6. No two columns can be the same.
